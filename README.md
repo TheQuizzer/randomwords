@@ -3,7 +3,7 @@
 
 <h2 style="font-size:2.5rem; color:#075FFF" align="center">CrickRandom</h2>
 
-<h2 align="center"> A Simple, Easy and Beginner friendly Discord.js Package for everyone. <br>Uses Discord.js v13<br><br>Developed by Rahuletto#0243</h2>
+<h2 align="center"> A Simple and Easy Cricket package<br><br>Developed by TheQuizzer#5653 and AssassiN#1234</h2>
 
 
 ## 🖥️ <b>How to install ?
