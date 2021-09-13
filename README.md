@@ -1,4 +1,4 @@
-<p align="center"><img align="center" style="margin-bottom:-6px" src="https://images-ext-2.discordapp.net/external/7I1ZQH36A3aH3wXb_tYl9jsjVIHsQN-WmVQ27OmyH_4/https/cdn.discordapp.com/avatars/873036619509272616/47838c6dd66c63c66f1aab1ab8bdee4f.webp?width=120&height=120?maxwidth=128&fidelity=grand"></p>
+<p align="center"><img align="center" style="margin-bottom:-6px" src="https://i.imgur.com/M5qtl0P.png"></p>
 
 
 <h2 style="font-size:2.5rem; color:#075FFF" align="center">CrickRandom</h2>
