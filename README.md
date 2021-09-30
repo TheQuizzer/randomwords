@@ -15,12 +15,12 @@ npm install crickrandom
  
 # 🎉 Functions! 🎉
 ```js
-var randomWords = require('crickrandom');
+var crickplayer = require('crickrandom');
 
-console.log(randomWords());
+console.log(cricketplayer(1));
 \\It will reply a cricket player
 
-console.log(randomWords(5));
+console.log(crickplayer(5));
 \\It will reply 5 cricket players
 ```
 <br>
