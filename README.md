@@ -1,6 +1,6 @@
 <h1>Package fixed and updated 👍</h1>
 
-<p>Update to the latest version `3.0.0`</p>
+<p>Update to the latest version 4.0.0</p>
 
 <p align="center"><img align="center" style="margin-bottom:-6px" src="https://i.imgur.com/M5qtl0P.png"></p>
 
